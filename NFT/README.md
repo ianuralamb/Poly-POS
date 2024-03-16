@@ -1,12 +1,4 @@
-# Project Title
-
-Polygon Proof of Stake
-
-## Description
-
-This project consists of smart contract code and hardhat JavaScript scripts for batch minting NFTs and performing batch transfers of NFTs from Goerli Ethereum Testnet to Polygon Mumbai using the FxPortal Bridge.
-
-## Getting Started
+# Polygon Proof of Stake Map Your NFT Collection
 
 ### Prerequisites
 
@@ -68,11 +60,6 @@ After successful Mapping you will get a `child address` also known as `fxPortalB
 ```
 node batchTransfer.js
 ```
-
-
-## Author 
-
-Anandu Singh
 
 ## License
 
